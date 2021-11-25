@@ -1,4 +1,4 @@
-the worst devoloper on earth ngl
+the worst developer on earth ngl
 ====================
 
 
