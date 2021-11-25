@@ -1,9 +1,10 @@
 the worst devoloper on earth ngl
 ====================
 
-<img src="https://github-profile-trophy.vercel.app/?username=n-xsi&theme=dracula&no-frame=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n-xsi&hide_border=true&currStreakLabel=FF79C6&background=DDDDDD00&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=FF79C6&sideLabels=FF79C6&dates=6272A4)](https://git.io/streak-stats)
+
+
 
 
 ### Languages & Tools
