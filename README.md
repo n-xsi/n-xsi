@@ -9,10 +9,11 @@ the worst developer on earth ngl
 
 ### Languages & Tools
 
-[<img src="https://img.shields.io/badge/html-%237289DA.svg?&style=for-the-badge&logo=html5&color=313842" />](https://www.w3.org/html) 
-[<img src="https://img.shields.io/badge/javascript-%237289DA.svg?&style=for-the-badge&logo=javascript&color=313842" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img src="https://img.shields.io/badge/nodejs-%237289DA.svg?&style=for-the-badge&logo=nodedotjs&color=313842" />](https://nodejs.org) 
-[<img src="https://img.shields.io/badge/mysql-%237289DA.svg?&style=for-the-badge&logo=mysql&color=313842" />](https://www.mysql.com) 
-[<img src="https://img.shields.io/badge/sqlite-%237289DA.svg?&style=for-the-badge&logo=sqlite&color=313842" />](https://www.sqlite.org/) 
-[<img src="https://img.shields.io/badge/postgresql-%237289DA.svg?&style=for-the-badge&logo=postgresql&color=313842" />](https://www.postgresql.org) 
-[<img src="https://img.shields.io/badge/python-%237289DA.svg?&style=for-the-badge&logo=python&color=313842" />](https://www.python.org) 
+[<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />](https://www.w3.org/html) 
+[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org) 
+[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com) 
+[<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />](https://www.sqlite.org/) 
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org) 
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org)
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](https://www.java.com/en/) 
