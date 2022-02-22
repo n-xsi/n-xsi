@@ -4,9 +4,6 @@ the worst developer on earth ngl
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n-xsi&hide_border=true&currStreakLabel=FF79C6&background=DDDDDD00&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=FF79C6&sideLabels=FF79C6&dates=6272A4)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-xsi&theme=blue-green" />
-
-
 ### Languages & Tools
 
 [<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />](https://www.w3.org/html) 
