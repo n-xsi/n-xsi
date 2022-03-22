@@ -24,7 +24,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-<em><b>If you want to say hi, I'll be happy to meet you!</b> 😊</em>
 
 <em>Also check this cool kitten i found on the internet!</em>
 
