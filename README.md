@@ -1,4 +1,4 @@
-👨‍💻 Hey! I'm [nxsi](nxsi.tech) AKA. the worst dev on earth
+👨‍💻 Hey! I'm [nxsi](https://www.nxsi.tech/) AKA. the worst dev on earth
 ----------------------------------------------------------
 
 
