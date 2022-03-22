@@ -4,6 +4,15 @@
 
 [![nxsi's github stats](https://github-readme-stats.vercel.app/api?username=n-xsi&count_private=true&show_icons=true&theme=radical)](https://github.com/n-xsi)
 
+
+### About me
+
+-  **Learning :** Back-end web development
+-  **Languages :** JavaScript, HTML, Python, CSS, Java
+-  **Hobbies :** I like to do some art here and there in my free time
+-  **My website :** [nxsi.tech](https://www.nxsi.tech/) *Coming soon!*
+-  **Note :** !!DRINK WATER!! 
+
 ### Languages & Tools
 
 
