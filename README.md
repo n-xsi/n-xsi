@@ -29,6 +29,8 @@
 
 ----------------------------------------------------------
 
-<em>Also check this cool kitten i found on the internet :)</em>
+<em>Check out my discord bot side project and I will be more than happy to hear your feedback</em>
 
-![kitten](https://i.kym-cdn.com/photos/images/original/001/852/504/cc1)
+<a href="https://top.gg/bot/928321820015337544">
+  <img src="https://top.gg/api/widget/928321820015337544.svg">
+</a>
