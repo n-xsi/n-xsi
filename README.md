@@ -8,7 +8,6 @@
 ### About me
 
 -  **Learning :** Back-end web development and mastering JS
--  **Languages :** JavaScript, HTML, Python, CSS, Java
 -  **Hobbies :** I like to do some art here and there in my free time
 -  **My website :** [nxsi.tech](https://www.nxsi.tech/) *Coming soon!*
 -  **Note :** !!DRINK WATER!! 
