@@ -14,7 +14,7 @@
 
 ### Discord
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=nxsi%230001&logoColor=7289DA&color=313842" />](https://discordapp.com/users/852851914005544960)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=nxsi%230001&logoColor=7289DA&color=7289DA" />](https://discordapp.com/users/852851914005544960)
 
 ### Languages & Tools
 
