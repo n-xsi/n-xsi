@@ -9,8 +9,7 @@
 
 -  **Working on :** Currently working on [**NeonBot**](https://neonbot.me/) with my fellow partner [**SpoopyTim**](https://github.com/spoopytim)
 -  **Hobbies :** I like to do some art here and there in my free time
--  **My website :** [nxsi.tech](https://www.nxsi.tech/) *Coming soon!*
--  **Note :** !!DRINK WATER!! 
+-  **My website :** [nxsi.tech](https://www.nxsi.tech/) Don't have the time to actually make it good. lmao
 
 ### Languages & Tools
 
