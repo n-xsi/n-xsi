@@ -7,7 +7,7 @@
 
 ### About me
 
--  **Working on :** Currently working on [**NeonBot**](https://neonbot.me/) with my fellow partner [**SpoopyTim**](https://github.com/spoopytim)
+-  **Working on :** Currently working on [**NeonBot**](https://neonbot.me/) with my fellow mate [**@SpoopyTim**](https://github.com/spoopytim)
 -  **Hobbies :** I like to do some art here and there in my free time
 -  **My website :** [nxsi.tech](https://www.nxsi.tech/) Don't have the time to actually make it good. lmao
 -  **Contact :** You can contact me at [contact@nxsi.tech](mailto:contact@nxsi.tech)
