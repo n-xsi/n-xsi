@@ -16,7 +16,7 @@
 
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=nxsi%230001&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/852851914005544960)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-xsi&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-xsi&layout=compact)](https://github.com/n-xsi/)
 
 ### Languages & Tools
 
