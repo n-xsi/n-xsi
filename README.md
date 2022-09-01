@@ -20,8 +20,7 @@
 <a href="#">
   <img align="center" alt="top-langs" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=n-xsi&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
 </a>
-
-
+---
 [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://www.javascript.com/)
 [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />](https://java.com/en/) 
 [<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](https://www.python.org/)
