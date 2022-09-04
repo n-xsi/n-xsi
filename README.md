@@ -2,7 +2,7 @@
 ----------------------------------------------------------
 
 
-[![nxsi's github stats](https://github-readme-stats.vercel.app/api?username=n-xsi&count_private=true&show_icons=true&theme=radical)](https://github.com/n-xsi)
+[![nxsi's github stats](https://github-readme-stats.vercel.app/api?username=n-xsi&count_private=true&show_icons=true&theme=dark)](https://github.com/n-xsi)
 
 
 ### About me
