@@ -1,4 +1,4 @@
-👨‍💻 Hey! I'm [nxsi](https://www.nxsi.tech/) also known as Tyson.
+👋 Hey! I'm [nxsi](https://www.nxsi.tech/) also known as Tyson.
 ----------------------------------------------------------
 
 
