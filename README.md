@@ -2,9 +2,6 @@
 ----------------------------------------------------------
 
 
-[![nxsi's github stats](https://github-readme-stats.vercel.app/api?username=n-xsi&count_private=true&show_icons=true&theme=dark)](https://github.com/n-xsi)
-
-
 ### About me
 
 -  **Working on:** Currently working on [**NeonBot**](https://neonbot.me/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
