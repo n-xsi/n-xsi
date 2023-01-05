@@ -1,4 +1,4 @@
-👨‍💻 Hey! I'm [nxsi](https://www.nxsi.tech/) AKA. the worst dev on earth ngl
+👨‍💻 Hey! I'm [nxsi](https://www.nxsi.tech/) also known as Tyson.
 ----------------------------------------------------------
 
 
