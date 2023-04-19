@@ -4,7 +4,7 @@
 
 ### About me
 
--  **Working on:** Currently working on [**NeonBot**](https://neonbot.me/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
+-  **Working on:** Currently working on [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
 -  **Hobbies:** I like to do some art here and there in my free time
 
 ### Discord
