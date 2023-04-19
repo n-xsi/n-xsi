@@ -1,4 +1,4 @@
-👋 Hey! I'm [nxsi](https://www.nxsi.tech/) also known as Tyson.
+👋 Hey! I'm nxsi or you can call me Tyson.
 ----------------------------------------------------------
 
 
@@ -6,8 +6,6 @@
 
 -  **Working on:** Currently working on [**NeonBot**](https://neonbot.me/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
 -  **Hobbies:** I like to do some art here and there in my free time
--  **My website:** [nxsi.tech](https://www.nxsi.tech/) Don't have the time to actually make it good. lmao
--  **Contact:** You can contact me at [contact@nxsi.tech](mailto:contact@nxsi.tech)
 
 ### Discord
 
