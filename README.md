@@ -1,7 +1,3 @@
-👋 Hey! I'm nxsi or you can call me Tyson.
-----------------------------------------------------------
-
-
 ### About me
 
 -  **Working on:** [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
