@@ -1,5 +1,5 @@
 ## Working on
-### [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
+### [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim) and [**@wik3d**](https://github.com/wik3d)
 
 ### Discord
 
