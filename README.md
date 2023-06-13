@@ -1,11 +1,9 @@
-### About me
-
--  **Working on:** [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
--  **Hobbies:** I like to do some art here and there in my free time
+## Working on
+### [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
 
 ### Discord
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=nxsi%232400&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/852851914005544960)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=nxsi&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/852851914005544960)
 
 ### Languages & Tools
 
