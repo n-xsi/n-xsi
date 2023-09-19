@@ -1,11 +1,14 @@
-## About me
-- ### Working on [**NeonBot**](https://neonbot.xyz/) with [**@SpoopyTim**](https://github.com/spoopytim) and [**@wik3d**](https://github.com/wik3d)
+<h1 align="center">
+    👋 Hello!! I'm nxsi :D
+</h1>
 
-## Discord
+# About me
+  🤖 ● Working on [NeonBot](https://neonbot.xyz/) with [@SpoopyTim](https://github.com/spoopytim) and [@wik3d](https://github.com/wik3d)<br/>
+  👨‍💻 ● Trying to master web development.<br/>
+  💬 ● Ask me about NodeJS, Python, TS on my Discord [@nxsi](https://discordapp.com/users/852851914005544960)<br/>
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=nxsi&logoColor=white&color=121212" />](https://discordapp.com/users/852851914005544960)
 
-## Languages & Tools
+# Languages & Tools
 
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
@@ -48,5 +51,3 @@
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31valee2hqbku52zwjzqbqnfuq2q&show_border=true&hide_title=true&limit=2" />
   </a>
 </p>
-
-----------------------------------------------------------
