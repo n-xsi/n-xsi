@@ -1,15 +1,14 @@
 <h1 align="center">
     👋 Hello!! I'm nxsi :D
 </h1>
-
-# About me
-  🤖 ● Working on [NeonBot](https://neonbot.xyz/) with [@SpoopyTim](https://github.com/spoopytim) and [@wik3d](https://github.com/wik3d)<br/>
-  👨‍💻 ● Trying to master web development.<br/>
-  💬 ● Ask me about NodeJS, Python, TS on my Discord [@nxsi](https://discordapp.com/users/852851914005544960)<br/>
-
-
-# Languages & Tools
-
+<h3 align="center">  
+    🤖 ● Working on <a target="_blank" href="https://neonbot.xyz/">NeonBot</a> with <a target="_blank" href="https://github.com/spoopytim">@SpoopyTim</a> and <a target="_blank" href="https://github.com/wik3d">@wik3d</a><br>
+    💬 ● Feel free to ask me about NodeJS, Python and TS on my Discord <a href="https://discordapp.com/users/852851914005544960">@nxsi</a>
+</h3>
+<br>
+<h1 align="center">
+    Languages & Tools
+</h1>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=121212" />
