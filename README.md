@@ -11,45 +11,45 @@
 </h1>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=e5e8cd&color=3a3a3b" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://open.spotify.com/user/31valee2hqbku52zwjzqbqnfuq2q?si=aaddc9fdc4074cfc" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://www.last.fm/user/nxsii" target="_blank">
-    <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=e5e8cd&color=3a3a3b" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=635c99" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=e5e8cd&color=3a3a3b" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd">
-    <img height=160 src="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd&border_radius=0" />
+  <a href="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=3a3a3b&text_color=e5e8cd&title_color=e5e8cd">
+    <img height=160 src="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=3a3a3b&text_color=e5e8cd&title_color=e5e8cd&border_radius=0" />
   </a>
-  <a href="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_color=e5e8cd">
-    <img height=160 src="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_radius=0&border_color=e5e8cd&hide=stars" />
+  <a href="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=3a3a3b&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_color=e5e8cd">
+    <img height=160 src="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=3a3a3b&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_radius=0&border_color=e5e8cd&hide=stars" />
   </a>
 </p>
