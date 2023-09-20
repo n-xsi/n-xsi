@@ -46,6 +46,15 @@
 </p>
 
 <p align="center">
+  <a href="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd">
+    <img height=200 src="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd&border_radius=0" />
+  </a>
+  <a href="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_color=e5e8cd">
+    <img height=200 src="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=635c99&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_radius=0&border_color=e5e8cd&hide=stars" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.last.fm/user/nxsii">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31valee2hqbku52zwjzqbqnfuq2q&show_border=true&hide_title=true&limit=2" />
   </a>
