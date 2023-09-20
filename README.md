@@ -53,3 +53,11 @@
     <img height=160 src="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=3a3a3b&text_color=e5e8cd&title_color=e5e8cd&rank_icon=github&border_radius=0&border_color=e5e8cd&hide=stars" />
   </a>
 </p>
+
+<br>
+
+<P align="center">
+    <a href="https://github.com/tthn0/Spotify-Readme">
+        <img src="https://spotify-readme-snowy-eight.vercel.app/api?theme=dark" alt="Current Spotify Song">
+    </a>
+</P>
