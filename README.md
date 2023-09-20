@@ -2,8 +2,8 @@
     👋 Hello!! I'm nxsi :D
 </h1>
 <h3 align="center">  
-    🤖 ● Working on <a target="_blank" href="https://neonbot.xyz/">NeonBot</a> with <a target="_blank" href="https://github.com/spoopytim">@SpoopyTim</a> and <a target="_blank" href="https://github.com/wik3d">@wik3d</a><br>
-    💬 ● Feel free to ask me about NodeJS, Python and TS on my Discord <a href="https://discordapp.com/users/852851914005544960">@nxsi</a>
+    Working on <a target="_blank" href="https://neonbot.xyz/">NeonBot</a> with <a target="_blank" href="https://github.com/spoopytim">@SpoopyTim</a> and <a target="_blank" href="https://github.com/wik3d">@wik3d</a><br>
+    Feel free to ask me about NodeJS, Python and TS on my Discord <a href="https://discordapp.com/users/852851914005544960">@nxsi</a>
 </h3>
 <br>
 <h1 align="center">
