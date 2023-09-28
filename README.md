@@ -1,5 +1,5 @@
 <h1 align="center">
-    👋 Hello!! I'm nxsi :D
+    👋 Hello!! I'm Ty :D
 </h1>
 <h3 align="center">  
     Working on <a href="https://neonbot.xyz/">NeonBot</a> with <a href="https://github.com/spoopytim">@SpoopyTim</a> and <a href="https://github.com/wik3d">@wik3d</a><br>
