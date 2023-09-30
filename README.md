@@ -4,7 +4,6 @@
 <h3 align="center">  
     Working on <a href="https://neonbot.xyz/">NeonBot</a> with <a href="https://github.com/spoopytim">@SpoopyTim</a> and <a href="https://github.com/wik3d">@wik3d</a><br>
     Feel free to ask me about NodeJS, Python and TS on my Discord <a href="https://discordapp.com/users/852851914005544960">@nxsi</a><br>
-    Contact & Enquiries <a href="mailto:contact@nxsi.tech?subject=Hello">hello@nxsi.tech</a>
 </h3>
 <h1 align="center">
     Languages & Tools
