@@ -46,6 +46,7 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=161b22&text_color=ffffff&title_color=e5e8cd">
     <img height=160 src="https://readme-stats-eta-steel.vercel.app/api/top-langs/?username=n-xsi&layout=compact&bg_color=161b22&border_color=161b22&text_color=ffffff&title_color=e5e8cd&border_radius=0" />
@@ -54,6 +55,7 @@
     <img height=160 src="https://readme-stats-eta-steel.vercel.app/api?username=n-xsi&layout=compact&bg_color=161b22&border_color=161b22&text_color=ffffff&title_color=e5e8cd&rank_icon=github&border_radius=0&hide=stars" />
   </a>
 </p>
+-->
 
 <P align="center">
     <a href="https://github.com/tthn0/Spotify-Readme">
