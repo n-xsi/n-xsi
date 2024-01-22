@@ -56,9 +56,3 @@
   </a>
 </p>
 -->
-
-<P align="center">
-    <a href="https://github.com/tthn0/Spotify-Readme">
-        <img src="https://spotify-readme-snowy-eight.vercel.app/api?theme=dark" alt="Current Spotify Song">
-    </a>
-</P>
