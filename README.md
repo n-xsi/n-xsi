@@ -1,5 +1,5 @@
-<h1 align="center">
-    👋 Hello!! I'm Ty :D
+<h1 align="center" class="title">
+    👋 Hello. I'm nxsi.
 </h1>
 <h3 align="center">  
     Currently learning <b>Rust</b><br>
