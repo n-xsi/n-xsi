@@ -5,7 +5,7 @@
     Currently learning <b>CPP</b><br>
     Working on <a href="https://neonbot.xyz/">NeonBot</a> with <a href="https://github.com/spoopytim">@SpoopyTim</a> and <a href="https://github.com/wik3d">@wik3d</a><br>
     Feel free to ask me about NodeJS, Python and TS on my Discord <a href="https://discordapp.com/users/852851914005544960">@nxsi</a><br>
-    For Contact & Enquiries <a href="mailto:hi@nxsi.tech?subject=👋">hi@nxsi.tech</a>
+    For Contact & Enquiries <a href="mailto:hi@nxsidev.xyz?subject=👋">hi@nxsidev.xyz</a>
 </h3>
 <h1 align="center">
     Languages & Tools
